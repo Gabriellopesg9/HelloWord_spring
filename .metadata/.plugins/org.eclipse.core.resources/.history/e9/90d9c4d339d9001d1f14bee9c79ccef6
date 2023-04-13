@@ -1,0 +1,5 @@
+package com.generation.hellowrd.controller;
+
+public class HelloController {
+
+}
